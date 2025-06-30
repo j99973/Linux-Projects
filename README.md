@@ -7,7 +7,7 @@ A collection of Linux-based projects, scripts, and utilities focused on automati
 
 ---
 
-## 📦 [Linux Logging Project](https://github.com/j99973/Linux-Projects/issues/2)
+## 📦 [Linux Logging Project](https://github.com/j99973/Linux-Projects/issues/1)
 
 A set of Bash, Python, and C tools designed to automate system logging, monitor activity, and generate reports for Linux environments.
 
@@ -21,7 +21,7 @@ A set of Bash, Python, and C tools designed to automate system logging, monitor 
 
 ---
 
-## 🎯 [Bash Quiz Script](https://github.com/j99973/Linux-Projects/issues/3)
+## 🎯 [Bash Quiz Script](https://github.com/j99973/Linux-Projects/issues/2)
 
 An interactive terminal quiz game using Bash that tests knowledge of Linux, Bash, and Python concepts through `.txt` files and randomized questions.
 
@@ -34,7 +34,7 @@ An interactive terminal quiz game using Bash that tests knowledge of Linux, Bash
 
 ---
 
-## 🛡️ [Config Checker Script](https://github.com/j99973/Linux-Projects/issues/4)
+## 🛡️ [Config Checker Script](https://github.com/j99973/Linux-Projects/issues/3)
 
 A lightweight Bash tool that reads `.info` files and verifies the existence, structure, and content of listed configuration files within a selected directory.
 
