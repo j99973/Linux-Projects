@@ -7,17 +7,17 @@ A collection of Linux-based projects, scripts, and utilities focused on automati
 
 ---
 
-## 📦 [Linux Logging Project](https://github.com/j99973/Linux-Projects/issues/1)
+## 🌌 [NASA APOD Newsletter Generator](https://github.com/j99973/Linux-Projects/issues/6)
 
-A set of Bash, Python, and C tools designed to automate system logging, monitor activity, and generate reports for Linux environments.
+A Python-based utility that pulls random space images and metadata from NASA's APOD API, then renders a styled HTML newsletter using Jinja2 templates.
 
 ### 🔧 Tech Stack
-- Bash, Python, C
+- Python, Jinja2, HTML/CSS
 
 ### 🔍 Highlights
-- 🛠️ Automation scripts for system monitoring and log analysis
-- 🧪 Custom CLI tools for log parsing and reporting
-- 🔐 Security and audit log utilities
+- 🌠 Fetches 3 random astronomy photos from NASA's API
+- 🖼️ Downloads and organizes images in a build directory
+- 📰 Renders an HTML newsletter with image descriptions and titles
 
 ---
 
@@ -34,6 +34,20 @@ An interactive terminal quiz game using Bash that tests knowledge of Linux, Bash
 
 ---
 
+## 📦 [Linux Logging Project](https://github.com/j99973/Linux-Projects/issues/1)
+
+A set of Bash, Python, and C tools designed to automate system logging, monitor activity, and generate reports for Linux environments.
+
+### 🔧 Tech Stack
+- Bash, Python, C
+
+### 🔍 Highlights
+- 🛠️ Automation scripts for system monitoring and log analysis
+- 🧪 Custom CLI tools for log parsing and reporting
+- 🔐 Security and audit log utilities
+
+---
+
 ## 🛡️ [Config Checker Script](https://github.com/j99973/Linux-Projects/issues/3)
 
 A lightweight Bash tool that reads `.info` files and verifies the existence, structure, and content of listed configuration files within a selected directory.
@@ -47,18 +61,5 @@ A lightweight Bash tool that reads `.info` files and verifies the existence, str
 
 ---
 
-## 🌌 [NASA APOD Newsletter Generator](https://github.com/j99973/Linux-Projects/issues/6)
-
-A Python-based utility that pulls random space images and metadata from NASA's APOD API, then renders a styled HTML newsletter using Jinja2 templates.
-
-### 🔧 Tech Stack
-- Python, Jinja2, HTML/CSS
-
-### 🔍 Highlights
-- 🌠 Fetches 3 random astronomy photos from NASA's API
-- 🖼️ Downloads and organizes images in a build directory
-- 📰 Renders an HTML newsletter with image descriptions and titles
-
----
 
 Thank you for visiting my portfolio! 🚀
