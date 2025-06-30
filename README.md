@@ -47,4 +47,18 @@ A lightweight Bash tool that reads `.info` files and verifies the existence, str
 
 ---
 
+## 🌌 [NASA APOD Newsletter Generator](https://github.com/j99973/Linux-Projects/issues/6)
+
+A Python-based utility that pulls random space images and metadata from NASA's APOD API, then renders a styled HTML newsletter using Jinja2 templates.
+
+### 🔧 Tech Stack
+- Python, Jinja2, HTML/CSS
+
+### 🔍 Highlights
+- 🌠 Fetches 3 random astronomy photos from NASA's API
+- 🖼️ Downloads and organizes images in a build directory
+- 📰 Renders an HTML newsletter with image descriptions and titles
+
+---
+
 Thank you for visiting my portfolio! 🚀
