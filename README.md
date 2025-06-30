@@ -7,7 +7,7 @@ A collection of Linux-based projects, scripts, and utilities focused on automati
 
 ---
 
-## 🔧 [Ansible Infrastructure Automation Project](https://github.com/j99973/Linux-Projects/issues/7)
+## 🔧 [Ansible Infrastructure Automation Project](https://github.com/j99973/Linux-Projects/issues/8)
 
 A comprehensive automation project using Ansible to configure Linux systems for dev, enrollment, and monitoring environments. It uses modular roles, systemd integration, and Prometheus for observability.
 
