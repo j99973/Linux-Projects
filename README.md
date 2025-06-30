@@ -7,6 +7,21 @@ A collection of Linux-based projects, scripts, and utilities focused on automati
 
 ---
 
+## 🔧 [Ansible Infrastructure Automation Project](https://github.com/j99973/Linux-Projects/issues/7)
+
+A comprehensive automation project using Ansible to configure Linux systems for dev, enrollment, and monitoring environments. It uses modular roles, systemd integration, and Prometheus for observability.
+
+### 🛠️ Tech Stack
+- Ansible, YAML, Jinja2, systemd
+
+### 🔍 Highlights
+- 🖥️ Automates provisioning of dev, enrollment, and monitoring hosts
+- 📡 Deploys Prometheus and Node Exporter with templated configs
+- ⚙️ Uses Jinja2 for dynamic file generation and role-based deployment
+- 🔄 Runs services using `.service` files under systemd
+
+---
+
 ## 🌌 [NASA APOD Newsletter Generator](https://github.com/j99973/Linux-Projects/issues/6)
 
 A Python-based utility that pulls random space images and metadata from NASA's APOD API, then renders a styled HTML newsletter using Jinja2 templates.
@@ -60,6 +75,5 @@ A lightweight Bash tool that reads `.info` files and verifies the existence, str
 - ⚠️ Flags missing or misconfigured files for review
 
 ---
-
 
 Thank you for visiting my portfolio! 🚀
