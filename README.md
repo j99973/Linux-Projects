@@ -25,7 +25,7 @@ IoT security system with real-time facial recognition, automated access control,
 * GPIO-controlled solenoid lock mechanism with fail-safe state management
 * Handles 100+ authorized users with complete audit trail and activity logging
 
-**[View Project →](https://github.com/j99973/face-recognition-door-lock)**
+**[View Project →](https://github.com/j99973/Linux-Projects/issues/9)**
 
 ---
 
@@ -42,7 +42,7 @@ A comprehensive automation project using Ansible to configure Linux systems for 
 * Uses Jinja2 for dynamic file generation and role-based deployment
 * Runs services using `.service` files under systemd
 
-**[View Project →](https://github.com/j99973/ansible-infrastructure)**
+**[View Project →](https://github.com/j99973/Linux-Projects/issues/8)**
 
 ---
 
@@ -58,7 +58,7 @@ A Python-based utility that pulls random space images and metadata from NASA's A
 * Downloads and organizes images in a build directory
 * Renders an HTML newsletter with image descriptions and titles
 
-**[View Project →](https://github.com/j99973/nasa-apod-newsletter)**
+**[View Project →](https://github.com/j99973/Linux-Projects/issues/6)**
 
 ---
 
@@ -73,7 +73,7 @@ An interactive terminal quiz game using Bash that tests knowledge of Linux, Bash
 * Pulls multiple-choice questions from structured text files
 * Tracks answers and gives a percentage-based performance report
 
-**[View Project →](https://github.com/j99973/bash-quiz)**
+**[View Project →](https://github.com/j99973/Linux-Projects/issues/2)**
 
 ---
 
@@ -89,7 +89,7 @@ A set of Bash, Python, and C tools designed to automate system logging, monitor 
 * Custom CLI tools for log parsing and reporting
 * Security and audit log utilities
 
-**[View Project →](https://github.com/j99973/linux-logging)**
+**[View Project →](https://github.com/j99973/Linux-Projects/issues/1)**
 
 ---
 
@@ -104,6 +104,6 @@ A lightweight Bash tool that reads `.info` files and verifies the existence, str
 * Automatically detects config folders and parses `.info` metadata
 * Flags missing or misconfigured files for review
 
-**[View Project →](https://github.com/j99973/config-checker)**
+**[View Project →](https://github.com/j99973/Linux-Projects/issues/3)**
 
 ---
